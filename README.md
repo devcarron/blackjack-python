@@ -22,7 +22,7 @@ You can install it (and potential other requirements) like that:
 
 ``pip install -r requirements.txt``
 
-Afterwards just run `python3 bot.py` and if done right, you'll be left with a working bot.
+Afterwards just run `python3 bot.py` and if done right, you'll be left with a working bot
 
 ### 2.) Docker
 This project also contains a `Dockerfile` as well as a pre-built [Docker image](https://hub.docker.com/repository/docker/0rickyy0/blackjackbot) hosted on the official Docker Hub.
